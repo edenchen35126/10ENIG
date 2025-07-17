@@ -84,6 +84,7 @@ color_dict ={
 
 }
 
+print("aaa")
 
 last_alert_times = {}
 camera_urls = {"205001":"rtsp://hikvision:Unitech0815!@10.20.55.20","205002":"rtsp://hikvision:Unitech0815!@10.20.55.21"}
